@@ -39,7 +39,19 @@
                    redo: '重做',
                    undo: '復原'
                }
-            }
+            },
+            pt_br: {
+                history: {
+                    redo: 'Refazer',
+                    undo: 'Desfazer'
+                }
+            },
+            ko: {
+                history: {
+                    redo: '다시 실행',
+                    undo: '되돌리기'
+                }
+            },
         },
         plugins: {
             history: {

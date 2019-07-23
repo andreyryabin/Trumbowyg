@@ -28,6 +28,12 @@
             zh_tw: {
                 template: '模板',
             },
+            pt_br: {
+                template: 'Modelo'
+            },
+            ko: {
+                template: '서식'
+            },
         }
     });
 
